@@ -7,13 +7,13 @@
 Установить глобально:
 
 ```bash
-npx skills add mimikkAi/mim-maker-skill -g
+npx skills add mimikkai/mim-maker-skill -g
 ```
 
 Установить в проект:
 
 ```bash
-npx skills add mimikkAi/mim-maker-skill
+npx skills add mimikkai/mim-maker-skill
 ```
 
 ## Что делает скилл
