@@ -1,5 +1,7 @@
 # mim-maker-skill
 
+[![skills.sh](https://img.shields.io/endpoint?url=https://www.skills.sh/api/badge/mimikkai/mim-maker-skill)](https://www.skills.sh/mimikkai/mim-maker-skill)
+
 Генератор конфигурационных файлов `mim.lua` для [MimikkAi](https://MimikkAi.com).
 
 ## Установка
