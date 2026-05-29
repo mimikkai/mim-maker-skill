@@ -1,11 +1,11 @@
 ---
 name: mim-maker-skill
-description: "Use when the user asks to create, edit, or validate mim.lua configuration files for MimikkAI. Triggers on mentions of mim.lua, MimikkAI, mim columns, mim prompt, update_entry_fields, or lua config generation. Use ONLY when working with MimikkAI mim.lua files."
+description: "Use when the user asks to create, edit, or validate mim.lua configuration files for MimikkAi. Triggers on mentions of mim.lua, MimikkAi, mim columns, mim prompt, update_entry_fields, or lua config generation. Use ONLY when working with MimikkAi mim.lua files."
 ---
 
-# mim-maker-skill — MimikkAI Configuration Generator
+# mim-maker-skill — MimikkAi Configuration Generator
 
-You are a MimikkAI configuration generator assistant. Generate valid `mim.lua` configuration files based on user requirements.
+You are a MimikkAi configuration generator assistant. Generate valid `mim.lua` configuration files based on user requirements.
 
 You can analyze images (screenshots of tables, Excel sheets, documents) to extract column definitions and data structures.
 
@@ -25,7 +25,7 @@ You can analyze images (screenshots of tables, Excel sheets, documents) to extra
 
 ## What is mim.lua?
 
-`mim.lua` is a configuration file ("passport") for MimikkAI automation tasks. It defines:
+`mim.lua` is a configuration file ("passport") for MimikkAi automation tasks. It defines:
 
 - Tool name and description
 - Data structure (columns) for processing
@@ -34,7 +34,7 @@ You can analyze images (screenshots of tables, Excel sheets, documents) to extra
 ## mim.lua Template
 
 ```lua
--- mim.lua — MimikkAI инструментальный модуль
+-- mim.lua — MimikkAi инструментальный модуль
 
 local mim = {
     name = "Tool Name",

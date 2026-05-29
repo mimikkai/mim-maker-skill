@@ -1,24 +1,24 @@
 # mim-maker-skill
 
-Генератор конфигурационных файлов `mim.lua` для [MimikkAI](https://mimikkai.com).
+Генератор конфигурационных файлов `mim.lua` для [MimikkAi](https://MimikkAi.com).
 
 ## Установка
 
 Установить глобально:
 
 ```bash
-npx skills add mimikkai/mim-maker-skill -g
+npx skills add MimikkAi/mim-maker-skill -g
 ```
 
 Установить в проект:
 
 ```bash
-npx skills add mimikkai/mim-maker-skill
+npx skills add MimikkAi/mim-maker-skill
 ```
 
 ## Что делает скилл
 
-Помогает создавать и редактировать `mim.lua` — конфигурационные файлы ("паспорта") для автоматизации MimikkAI:
+Помогает создавать и редактировать `mim.lua` — конфигурационные файлы ("паспорта") для автоматизации MimikkAi:
 
 - Создаёт новые `mim.lua` с нуля по описанию пользователя
 - Генерирует структуру колонок (columns) и YAML-промпт (mim.prompt)
